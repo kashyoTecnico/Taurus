@@ -1,0 +1,127 @@
+package defpackage;
+
+/* compiled from: r8-map-id-a8fcd33ccb3955d164982b21dfd7d15e244571037dfaf274f0981e5de3b0a2e0 */
+/* loaded from: classes.dex */
+public final class kf {
+    public final long A;
+    public final long B;
+    public final long C;
+    public final long D;
+    public final long E;
+    public final long F;
+    public final long G;
+    public final long H;
+    public final long I;
+    public final long J;
+    public kc K;
+    public kc L;
+    public gd M;
+    public zz0 N;
+    public final long a;
+    public final long b;
+    public final long c;
+    public final long d;
+    public final long e;
+    public final long f;
+    public final long g;
+    public final long h;
+    public final long i;
+    public final long j;
+    public final long k;
+    public final long l;
+    public final long m;
+    public final long n;
+    public final long o;
+    public final long p;
+    public final long q;
+    public final long r;
+    public final long s;
+    public final long t;
+    public final long u;
+    public final long v;
+    public final long w;
+    public final long x;
+    public final long y;
+    public final long z;
+
+    public kf(long j, long j2, long j3, long j4, long j5, long j6, long j7, long j8, long j9, long j10, long j11, long j12, long j13, long j14, long j15, long j16, long j17, long j18, long j19, long j20, long j21, long j22, long j23, long j24, long j25, long j26, long j27, long j28, long j29, long j30, long j31, long j32, long j33, long j34, long j35, long j36) {
+        this.a = j;
+        this.b = j2;
+        this.c = j3;
+        this.d = j4;
+        this.e = j5;
+        this.f = j6;
+        this.g = j7;
+        this.h = j8;
+        this.i = j9;
+        this.j = j10;
+        this.k = j11;
+        this.l = j12;
+        this.m = j13;
+        this.n = j14;
+        this.o = j15;
+        this.p = j16;
+        this.q = j17;
+        this.r = j18;
+        this.s = j19;
+        this.t = j20;
+        this.u = j21;
+        this.v = j22;
+        this.w = j23;
+        this.x = j24;
+        this.y = j25;
+        this.z = j26;
+        this.A = j27;
+        this.B = j28;
+        this.C = j29;
+        this.D = j30;
+        this.E = j31;
+        this.F = j32;
+        this.G = j33;
+        this.H = j34;
+        this.I = j35;
+        this.J = j36;
+    }
+
+    public final String toString() {
+        StringBuilder sb = new StringBuilder("ColorScheme(primary=");
+        b8.l(this.a, sb, "onPrimary=");
+        b8.l(this.b, sb, "primaryContainer=");
+        b8.l(this.c, sb, "onPrimaryContainer=");
+        b8.l(this.d, sb, "inversePrimary=");
+        b8.l(this.e, sb, "secondary=");
+        b8.l(this.f, sb, "onSecondary=");
+        b8.l(this.g, sb, "secondaryContainer=");
+        b8.l(this.h, sb, "onSecondaryContainer=");
+        b8.l(this.i, sb, "tertiary=");
+        b8.l(this.j, sb, "onTertiary=");
+        b8.l(this.k, sb, "tertiaryContainer=");
+        b8.l(this.l, sb, "onTertiaryContainer=");
+        b8.l(this.m, sb, "background=");
+        b8.l(this.n, sb, "onBackground=");
+        b8.l(this.o, sb, "surface=");
+        b8.l(this.p, sb, "onSurface=");
+        b8.l(this.q, sb, "surfaceVariant=");
+        b8.l(this.r, sb, "onSurfaceVariant=");
+        b8.l(this.s, sb, "surfaceTint=");
+        b8.l(this.t, sb, "inverseSurface=");
+        b8.l(this.u, sb, "inverseOnSurface=");
+        b8.l(this.v, sb, "error=");
+        b8.l(this.w, sb, "onError=");
+        b8.l(this.x, sb, "errorContainer=");
+        b8.l(this.y, sb, "onErrorContainer=");
+        b8.l(this.z, sb, "outline=");
+        b8.l(this.A, sb, "outlineVariant=");
+        b8.l(this.B, sb, "scrim=");
+        b8.l(this.C, sb, "surfaceBright=");
+        b8.l(this.D, sb, "surfaceDim=");
+        b8.l(this.E, sb, "surfaceContainer=");
+        b8.l(this.F, sb, "surfaceContainerHigh=");
+        b8.l(this.G, sb, "surfaceContainerHighest=");
+        b8.l(this.H, sb, "surfaceContainerLow=");
+        b8.l(this.I, sb, "surfaceContainerLowest=");
+        sb.append((Object) bf.i(this.J));
+        sb.append(')');
+        return sb.toString();
+    }
+}
